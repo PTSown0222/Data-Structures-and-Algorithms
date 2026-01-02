@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2027-minimum-moves-to-convert-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2027-minimum-moves-to-convert-string) |
 ## Sorting
 |  |
 | ------- |
