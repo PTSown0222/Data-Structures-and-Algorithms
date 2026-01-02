@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3745-maximize-expression-of-three-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 ## Backtracking
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2027-minimum-moves-to-convert-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3745-maximize-expression-of-three-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
