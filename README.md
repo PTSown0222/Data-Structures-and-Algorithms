@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
+| [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1323-maximum-69-number) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
