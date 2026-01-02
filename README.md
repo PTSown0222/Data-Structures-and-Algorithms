@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
+| [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Backtracking
 |  |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
