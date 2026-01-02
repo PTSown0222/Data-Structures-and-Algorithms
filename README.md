@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
+| [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
