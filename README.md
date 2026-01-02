@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
