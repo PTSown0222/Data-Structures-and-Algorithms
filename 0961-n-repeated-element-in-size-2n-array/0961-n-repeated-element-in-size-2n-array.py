@@ -2,7 +2,7 @@ class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
         
         n = len(nums)
-        # init the dictionary in python
+        # init the dictionary (Hashmap) in python
         counts = {}
 
         # count the frequency
