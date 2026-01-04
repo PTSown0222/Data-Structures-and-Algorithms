@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
+| [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0948-bag-of-tokens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
