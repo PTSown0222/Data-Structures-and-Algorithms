@@ -164,14 +164,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0743-network-delay-time) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0743-network-delay-time) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
 |  |
 | ------- |
