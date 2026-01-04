@@ -165,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0743-network-delay-time) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
