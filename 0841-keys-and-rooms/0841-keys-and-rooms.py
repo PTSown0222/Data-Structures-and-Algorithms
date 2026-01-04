@@ -15,7 +15,7 @@ class Solution:
                     visited.add(key)
                     stack.append(key)
         
-        return len(visited) == len(rooms)
+        return len(visited) == n
 
         
         
