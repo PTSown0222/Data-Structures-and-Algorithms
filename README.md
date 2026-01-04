@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1791-find-center-of-star-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0743-network-delay-time) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
 |  |
