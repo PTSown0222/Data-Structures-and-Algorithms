@@ -24,5 +24,3 @@ class Solution:
         return min_result
         
 
-        return landStartTime[0] + landDuration[0] + waterStartTime[0] + waterDuration[0]
-
