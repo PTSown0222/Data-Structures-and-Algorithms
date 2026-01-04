@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -135,14 +136,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
