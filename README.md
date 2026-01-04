@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0595-big-countries) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
