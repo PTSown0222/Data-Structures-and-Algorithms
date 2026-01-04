@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
+| [0997-find-the-town-judge](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Depth-First Search
@@ -141,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
