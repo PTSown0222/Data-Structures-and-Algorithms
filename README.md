@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting Sort
 |  |
 | ------- |
