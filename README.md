@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -129,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
