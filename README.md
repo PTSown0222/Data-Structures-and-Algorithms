@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
