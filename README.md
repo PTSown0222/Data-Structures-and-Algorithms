@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2578-split-with-minimum-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1710-maximum-units-on-a-truck) |
+| [2578-split-with-minimum-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2578-split-with-minimum-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3745-maximize-expression-of-three-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
+| [2578-split-with-minimum-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2578-split-with-minimum-sum) |
 ## Enumeration
 |  |
 | ------- |
