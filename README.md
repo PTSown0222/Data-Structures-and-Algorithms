@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
+| [1668-maximum-repeating-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2027-minimum-moves-to-convert-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1668-maximum-repeating-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
