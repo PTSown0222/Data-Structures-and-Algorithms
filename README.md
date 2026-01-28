@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
