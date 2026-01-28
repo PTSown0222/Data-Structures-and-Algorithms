@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
