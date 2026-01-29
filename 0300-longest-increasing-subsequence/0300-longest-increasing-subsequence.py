@@ -1,18 +1,25 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        
-        # dp[i] = length of increasing subsequeces from nums[0...i] include nums[i] as a last element
-        # nums = [10,9,2,5,3,7,101,18]
-        # dp[0] = 1
-        # dp[1] = 1
-        # dp[2] = 1
-        # dp[3] = 2, [2,5]
-        # dp[i] = max(dp[i], dp[j] + 1 with j < i) and (nums[j] < nums[i]) + nums[i]
         n = len(nums)
         dp = [1] * n
-
+        t = [-1] * n
+        iMax = 0
         for i in range(n):
             for j in range(i):
-                if nums[j] < nums[i]:
-                    dp[i] = max(dp[i], dp[j] + 1)
-        return max(dp)
+                if nums[j] < nums[i] and dp[i] < dp[j] + 1:
+                    dp[i] = dp[j] + 1
+                    t[i] = j
+            if dp[i] > dp[iMax]:
+                iMax = i
+        
+        path = []
+        i = iMax
+        while i != -1:
+            path.append(i)
+            i = t[i]
+        
+        print(f"path:")
+        for i in range(len(path) - 1,-1,-1):
+            print(nums[path[i]])
+        return dp[iMax]
+        
