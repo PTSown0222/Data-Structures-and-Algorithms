@@ -21,21 +21,29 @@ class Solution:
         #     return s[l] == s[r] and isPalindrome(s,l+1,r-1)
 
         # use memo = []
-        memo = [ [None] * n for _ in range(n)] # a table stored value
-        def isPalindrome(s, l ,r):
-            if l >= r: return True
-            if memo[l][r] != None: return memo[l][r]
-            if s[l] != s[r]: return False
-            memo[l][r] = isPalindrome(s,l+1,r-1)
-            return memo[l][r]
+        # memo = [ [None] * n for _ in range(n)] # a table stored value
+        # def isPalindrome(s, l ,r):
+        #     if l >= r: return True
+        #     if memo[l][r] != None: return memo[l][r]
+        #     if s[l] != s[r]: return False
+        #     memo[l][r] = isPalindrome(s,l+1,r-1)
+        #     return memo[l][r]
 
+        #bottom-up DP
+        dp = [[False] * n for _ in range(n)]
+        for l in range(n-1,-1,-1):
+            for r in range(l, n):
+                if s[l] != s[r]: continue
+                if l + 1 >= r - 1:
+                    dp[l][r] = True
+                else:
+                    dp[l][r] = dp[l+1][r-1]
 
-        
         resLen = 0
         resStartIndex = 0
         for i in range(n):
             for j in range(i, n):
-                if isPalindrome(s, i, j) and j - i + 1 > resLen:
+                if dp[i][j] and j - i + 1 > resLen:
                     resLen = j - i + 1
                     resStartIndex = i
         
@@ -47,4 +55,6 @@ class Solution:
         # j = 1, ba-notPalin,
         # j = 2, bab => j - i + 1= 2 - 0 + 1 = 3 update resLen = 3, index = i = 0
         # s[0 : 0 + 3] = s[0:3] : 3 char - bab
+
+        
 
