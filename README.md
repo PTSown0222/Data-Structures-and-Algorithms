@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0300-longest-increasing-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
