@@ -7,7 +7,7 @@ class Solution:
         # dp[1] = 1
         # dp[2] = 1
         # dp[3] = 2, [2,5]
-        # dp[i] = max(dp[j] with j < i) and (nums[j] < nums[i]) + nums[i]
+        # dp[i] = max(dp[i], dp[j] + 1 with j < i) and (nums[j] < nums[i]) + nums[i]
         n = len(nums)
         dp = [1] * n
 
