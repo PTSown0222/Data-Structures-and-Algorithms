@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
