@@ -295,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0210-course-schedule-ii) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
