@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [1603-design-parking-system](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1603-design-parking-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1603-design-parking-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0707-design-linked-list) |
+| [1603-design-parking-system](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
