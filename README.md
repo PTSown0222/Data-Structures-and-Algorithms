@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -300,10 +301,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0707-design-linked-list) |
 | [1603-design-parking-system](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1603-design-parking-system) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
