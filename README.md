@@ -1,8 +1,8 @@
-# My-LeetCode-Journey
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🏆 My LeetCode Journey
 
-## LeetCode Statistics
-![LeetCode Stats](https://leetcode-stats-rocket.vercel.app/api?username=ptsown0222&theme=dark)
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=ptsown0222&theme=dark" alt="LeetCode Stats" />
+</p>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
