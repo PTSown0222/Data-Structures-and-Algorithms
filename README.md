@@ -1,10 +1,6 @@
 # 🏆 My LeetCode Journey
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=ptsown0222&theme=dark" alt="LeetCode Stats" />
-</p>
-
-### 📅 Contribution Calendar
+### 📅 Contribution Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ptsown0222?theme=dark&font=Ubuntu" alt="LeetCode Calendar" />
 </p>
