@@ -43,6 +43,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -297,6 +298,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
 |  |
 | ------- |
@@ -322,4 +324,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
