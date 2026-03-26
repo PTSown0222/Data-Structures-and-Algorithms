@@ -77,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
+| [0344-reverse-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -194,6 +195,7 @@
 | [0125-valid-palindrome](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
