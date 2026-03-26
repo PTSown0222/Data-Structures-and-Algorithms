@@ -16,6 +16,7 @@
 | [0014-longest-common-prefix](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
@@ -186,6 +187,7 @@
 | [0005-longest-palindromic-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
