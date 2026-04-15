@@ -27,6 +27,7 @@
 | [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
@@ -347,5 +350,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
