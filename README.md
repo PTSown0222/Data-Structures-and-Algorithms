@@ -35,6 +35,7 @@
 | [0322-coin-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
@@ -121,6 +122,7 @@
 | [0219-contains-duplicate-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -177,6 +179,7 @@
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-bag-of-tokens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1603-design-parking-system](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1603-design-parking-system) |
 ## Two Pointers
 |  |
@@ -323,6 +327,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
