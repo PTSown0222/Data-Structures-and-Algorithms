@@ -118,6 +118,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -209,6 +210,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
