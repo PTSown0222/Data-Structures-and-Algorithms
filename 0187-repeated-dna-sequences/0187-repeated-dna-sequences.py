@@ -12,5 +12,18 @@ class Solution:
             else:
                 seen.add(sub_adn_seq)
         return [i for i in repeated]
-
-        # hashmap + sliding window
+        
+        # hashmap + sliding window : TLE
+        # n = len(s)
+        # k = 10
+        # ans = []
+        # freq = {}
+        # for i in range(n - k + 1):
+        #     window = s[i : i + k]
+        #     freq[window] = freq.get(window,0) + 1
+        #     print(freq)
+        
+        #     if freq[window] == 2:
+        #         ans.append(window)
+        
+        # return ans
