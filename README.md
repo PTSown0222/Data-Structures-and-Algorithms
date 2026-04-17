@@ -52,6 +52,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -226,6 +227,7 @@
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0948-bag-of-tokens) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
