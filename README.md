@@ -91,6 +91,7 @@
 | [0344-reverse-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0541-reverse-string-ii) |
@@ -133,6 +134,7 @@
 | [0219-contains-duplicate-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -351,6 +353,7 @@
 | [0187-repeated-dna-sequences](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -393,4 +396,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
