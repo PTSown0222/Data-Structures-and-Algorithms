@@ -3,7 +3,6 @@ class Solution:
         # left = 0
         # window = right - left + 1
         n = len(s)
-        arr = list(s)
         prev = 0
         left = 0
         ans = 0
