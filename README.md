@@ -38,6 +38,7 @@
 | [0413-arithmetic-slices](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0413-arithmetic-slices) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
@@ -359,6 +360,7 @@
 | [0413-arithmetic-slices](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
