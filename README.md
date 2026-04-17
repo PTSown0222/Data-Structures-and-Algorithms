@@ -35,6 +35,7 @@
 | [0322-coin-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0413-arithmetic-slices) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
@@ -117,6 +118,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -354,6 +356,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
