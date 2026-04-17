@@ -39,6 +39,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0860-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -187,6 +188,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -225,6 +227,7 @@
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0948-bag-of-tokens) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/2200-find-all-k-distant-indices-in-an-array) |
