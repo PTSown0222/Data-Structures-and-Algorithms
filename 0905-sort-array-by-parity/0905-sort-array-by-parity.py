@@ -8,6 +8,7 @@ class Solution:
             return 0
         
         while left < right:
+            # check 1(True) > 0(False)
             if nums[left] % 2 > nums[right] % 2:
                 nums[left], nums[right] = nums[right], nums[left]
             if nums[left] % 2 == 0:
