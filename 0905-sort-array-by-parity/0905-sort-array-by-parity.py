@@ -1,0 +1,17 @@
+class Solution:
+    def sortArrayByParity(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+ 
+        left = 0
+        right = n - 1
+        if n == 0:
+            return 0
+        
+        while left < right:
+            if nums[left] % 2 > nums[right] % 2:
+                nums[left], nums[right] = nums[right], nums[left]
+            if nums[left] % 2 == 0:
+                left += 1
+            if nums[right] % 2 != 0:
+                right -= 1
+        return nums
