@@ -94,6 +94,7 @@
 | [0541-reverse-string-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
 | [1668-maximum-repeating-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1668-maximum-repeating-substring) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -229,6 +230,7 @@
 | [0541-reverse-string-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0948-bag-of-tokens) |
