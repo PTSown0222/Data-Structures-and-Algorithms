@@ -9,7 +9,5 @@ class Solution:
                 counts[char] += 1
             return counts
         
-        if count_char(s) == count_char(t):
-            return True
-        return False
+        return count_char(s) == count_char(t)
         
