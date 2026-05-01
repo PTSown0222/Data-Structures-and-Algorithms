@@ -90,6 +90,7 @@
 | [0131-palindrome-partitioning](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
@@ -135,6 +136,7 @@
 | [0202-happy-number](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -194,6 +196,7 @@
 | [0016-3sum-closest](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
