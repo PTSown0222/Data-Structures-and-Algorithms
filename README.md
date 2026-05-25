@@ -21,6 +21,7 @@
 | [0027-remove-element](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0091-decode-ways) |
@@ -416,5 +418,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
