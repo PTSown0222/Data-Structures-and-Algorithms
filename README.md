@@ -20,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
@@ -165,6 +167,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0860-lemonade-change) |
