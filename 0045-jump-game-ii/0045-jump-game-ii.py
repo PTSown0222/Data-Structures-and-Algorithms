@@ -8,6 +8,8 @@ class Solution:
 
         for i in range(n - 1):
             max_goal = max(max_goal, i + nums[i])
+            if max_goal >= n - 1:
+                return step + 1
             if i == current:
                 step+=1
                 current = max_goal
