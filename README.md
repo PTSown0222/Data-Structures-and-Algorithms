@@ -19,6 +19,7 @@
 | [0018-4sum](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0078-subsets) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0091-decode-ways) |
@@ -167,6 +169,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/PTSown0222/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
